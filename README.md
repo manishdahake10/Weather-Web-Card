@@ -13,7 +13,7 @@ bash<br>
 Copy code<br>
 git clone https://github.com/manishdahake10/Weather-Web-Card.git<br>
 View Project<br>
-website : https://weatherwebcard.netlify.app
+website : https://weatherwebcard.netlify.app<br>
 Install dependencies:<br>
 bash<br>
 Copy code<br>
