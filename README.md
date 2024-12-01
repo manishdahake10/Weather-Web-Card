@@ -78,5 +78,3 @@ Feel free to fork this repository and contribute by opening issues or submitting
 **Your Name**  
 GitHub: [manishdahake10](https://github.com/manishdahake10)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
